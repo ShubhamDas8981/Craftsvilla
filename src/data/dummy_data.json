@@ -1,0 +1,47 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "catName": "Fashon",
+            "catImg" : ""
+        },
+        {
+            "id": 2,
+            "catName": "Beauty & Personal Care",
+            "catImg" : ""
+        },
+        {
+            "id": 3,
+            "catName": "Home Decor",
+            "catImg" : ""
+        },
+        {
+            "id": 4,
+            "catName": "Electronics",
+            "catImg" : ""
+        },
+        {
+            "id": 5,
+            "catName": "Amazing India",
+            "catImg" : ""
+        }
+    ],
+    "products" : [
+        {
+          "id": 1,
+          "name": "Handmade Necklace",
+          "price": "$25",
+          "image": "https://via.placeholder.com/150",
+          "description": "A beautiful handmade necklace.",
+          "catName" : "Amazing India"
+        },
+        {
+            "id": 1,
+            "name": "Earphone",
+            "price": "$25",
+            "image": "https://via.placeholder.com/150",
+            "description": "A beautiful handmade necklace.",
+            "catName" : "Electronics"
+          }
+      ]
+}
